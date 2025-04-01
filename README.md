@@ -1,10 +1,10 @@
 
 # OCD![images](https://github.com/user-attachments/assets/bb86150b-43d1-44f6-81e4-cdc87a9278c1)
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
- Patient Dataset Analysis
+
+#Patient Dataset Analysis
 
 ## Project Overview
 This project focuses on analyzing the demographics and clinical data of patients diagnosed with Obsessive-Compulsive Disorder (OCD). The objective is to extract meaningful insights, identify patterns, and apply machine learning techniques to support better diagnosis and treatment strategies.
