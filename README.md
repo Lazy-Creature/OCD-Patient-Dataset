@@ -4,7 +4,7 @@
 
 
 
-#Patient Dataset Analysis
+## Patient Dataset Analysis
 
 ## Project Overview
 This project focuses on analyzing the demographics and clinical data of patients diagnosed with Obsessive-Compulsive Disorder (OCD). The objective is to extract meaningful insights, identify patterns, and apply machine learning techniques to support better diagnosis and treatment strategies.
